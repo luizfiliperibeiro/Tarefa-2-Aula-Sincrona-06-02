@@ -54,3 +54,11 @@ Adicionalmente, um **LED Verde (GPIO 12)** é utilizado para indicar visualmente
 - O servomotor irá inicialmente para **180°, depois 90° e 0°**.
 - Após essa sequência, ele iniciará um movimento suave e contínuo de **0° para 180° e vice-versa**.
 - O **LED Verde (GPIO 12)** aumenta de brilho conforme o servo se aproxima de **180°** e diminui quando retorna a **0°**.
+
+🔹 O que o discente observará no LED Verde?
+✅ O brilho do LED Verde (GPIO 12) acompanhará a movimentação do servo:
+
+🟢 Servo em 0° → LED Verde bem fraco.
+🟢 Servo em 90° → LED Verde com brilho médio.
+🟢 Servo em 180° → LED Verde bem brilhante.
+💡 Durante a movimentação contínua, a intensidade do LED aumentará e diminuirá suavemente.
