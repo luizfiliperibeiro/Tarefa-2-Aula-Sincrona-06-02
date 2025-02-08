@@ -56,9 +56,17 @@ Adicionalmente, um **LED Verde (GPIO 12)** é utilizado para indicar visualmente
 - O **LED Verde (GPIO 12)** aumenta de brilho conforme o servo se aproxima de **180°** e diminui quando retorna a **0°**.
 
 🔹 O que o discente observará no LED Verde?
+
 ✅ O brilho do LED Verde (GPIO 12) acompanhará a movimentação do servo:
 
 🟢 Servo em 0° → LED Verde bem fraco.
+
 🟢 Servo em 90° → LED Verde com brilho médio.
+
 🟢 Servo em 180° → LED Verde bem brilhante.
+
 💡 Durante a movimentação contínua, a intensidade do LED aumentará e diminuirá suavemente.
+
+## Vídeo Ensaio
+
+https://drive.google.com/file/d/1R4Ehd4NT3iIH5XwuAlY90NQZaUM3FraZ/view?usp=sharing
